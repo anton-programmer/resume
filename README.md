@@ -1,6 +1,6 @@
 Availible url
 -------------------
-https://anton-devops.github.io/about
+https://anton-devops.github.io/cv
 
 
 Directory Structure
