@@ -1,6 +1,6 @@
 Availible url
 -------------------
-https://anton-devops.github.io/cv
+https://manbojack.github.io/cv
 
 
 Directory Structure
